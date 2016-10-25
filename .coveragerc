@@ -1,0 +1,5 @@
+[run]
+include = exo_sketchfab/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
